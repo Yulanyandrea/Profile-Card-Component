@@ -25,3 +25,16 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
                                                        Que aprendi?
 
 Ha sido todo un desafio entender la manipulación correcta de cada caja para centrarlas tanto vertical como horizontal sin usar la propiedad margin. Por lo tanto en el siguiente proyecto el uso de margin no se utiliza ya que es considerado no una buena practica. 
+
+                                                   Resultado final 
+                                                   
+                                                   mobile 
+                                
+ ![mobile](https://user-images.githubusercontent.com/79812118/197030634-02c0ca40-ba5d-4283-93fa-bd74a141074a.jpg)
+ 
+            
+                                      desktop
+  
+   ![desktop](https://user-images.githubusercontent.com/79812118/197030924-f5abcaa1-d477-4d37-aa4d-70ed2343880f.jpg)
+ 
+
